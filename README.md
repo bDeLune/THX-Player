@@ -1,30 +1,12 @@
-# thx-player
+#THX Player
 
-> A Vue.js project
+> My attempt at recreating the THX Logo theme by James A.Moorer. The page is built using Vue.js and the Web Audio API. The site is hosted on firebase.
 
-## Build Setup
+> Feel free to message me if you have any suggestions on how I could make this closer to the original - i'm at bdillon@live.ie
 
-``` bash
-# install dependencies
-npm install
+> LINK: https://thx-player.firebaseapp.com/#/
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Tech used
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
